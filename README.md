@@ -33,7 +33,7 @@ Integrantes do grupo<br>
 # PARTE 2 DA DISCIPLINA
 (A parte 2 tem como foco as atividades de Modelagem e ETL)
 
-### 5 Fast Modelling Canvas
+### 5 Fast Modelling Canvas e Fast DDP Canvas
 > Inclusão do Fast Modelling Canvas
 <br>
 <br>
@@ -52,7 +52,7 @@ Integrantes do grupo<br>
 ### 8	Modelos Conceitual, Lógico e Físico -OLAP<br>
 > Inclusão dos Modelos OLAP
 > TABELAS DIMENSÃO, FATO, MEDIDAS E MÉTRICAS
-> Implementação de no mínimo 3 dimensões e 1 fato presentes no Mapa de ETL
+> Implementação de no mínimo 3 dimensões e 1 fato presentes no Mapa de ETL com carga básica de dados
 <br>
 <br>
 
